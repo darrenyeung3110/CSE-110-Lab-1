@@ -33,3 +33,8 @@ Favorite Video games:
 3. GTA 5 
 4. Stardew Valley
 5. League of legends
+
+Things to do:
+- [x] Complete CSE 110 Lab 
+- [ ] Watch CSE 130 lecture
+- [ ] Watch MATH 102 Lecture
