@@ -5,10 +5,10 @@
 In the words of Neil Armstrong  
 > One small step for man, one giant leap for mankind  
 
-**important**  
+**bold important**  
 ~~whoops~~  
-**important**  
-***Even more important***
+*italics important*  
+***Bold and Italics Even more important***  
 Every programmers first program:  
 ```
 #include<iostream>
