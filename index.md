@@ -1,7 +1,7 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 # Darren Yeung
-*Junior undergraduate at UCSD*\
-In the words of Neil Armstrong\
+*Junior undergraduate at UCSD\*
+In the words of Neil Armstrong
 > One small step for man, one giant leap for mankind\
 
 Every programmers first program: 
