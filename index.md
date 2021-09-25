@@ -16,3 +16,5 @@ int main() {
     return 0; 
 }
 ```
+[UCSD CSE Website](https://cse.ucsd.edu/)
+[Link to Computer Specs](computer.md)
