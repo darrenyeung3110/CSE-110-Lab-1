@@ -5,7 +5,10 @@
 In the words of Neil Armstrong  
 > One small step for man, one giant leap for mankind  
 
-
+**important**  
+~~whoops~~  
+**important**  
+***Even more important***
 Every programmers first program:  
 ```
 #include<iostream>
