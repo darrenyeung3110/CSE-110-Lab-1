@@ -17,7 +17,7 @@ int main() {
 }
 ```
 [UCSD CSE Website](https://cse.ucsd.edu/)  
-[Link to Computer Specs](computer.md)
+[Link to Computer Specs](computer.md)  
 [Section link](https://github.com/darrenyeung3110/CSE-110-Lab-1/blob/main/index.md#darren-yeung)  
 
 Classes I am taking: 
