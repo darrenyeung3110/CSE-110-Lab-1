@@ -3,8 +3,10 @@
 *Junior undergraduate at UCSD*  
   
 In the words of Neil Armstrong  
-> One small step for man, one giant leap for mankind
-###### Every programmer's first program  
+> One small step for man, one giant leap for mankind  
+
+
+Every programmers first program:  
 ```
 #include<iostream>
 #include<string>
